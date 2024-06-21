@@ -1,7 +1,13 @@
+
 {
+  "name": "full-stack-app",
+  "version": "1.0.0",
   "scripts": {
+    "start-frontend": "cd frontend-master && npm start",
+    "start-backend": "cd backend-master && npm start",
+    "start": "npm run start-backend & npm run start-frontend",
     "build-frontend": "cd frontend-master && npm install && npm run build",
     "build-backend": "cd backend-master && npm install",
-    "build-all": "npm run build-frontend && npm run build-backend"
+    "build": "npm run build-frontend && npm run build-backend"
   }
 }
