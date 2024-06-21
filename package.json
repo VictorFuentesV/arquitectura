@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build-frontend": "cd frontend-master && npm install && npm run build",
+    "build-backend": "cd backend-master && npm install",
+    "build-all": "npm run build-frontend && npm run build-backend"
+  }
+}
