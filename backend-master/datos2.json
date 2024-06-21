@@ -1,0 +1,72 @@
+[
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d878"
+      },
+      "codigo": "B001",
+      "cantidad": 75
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d879"
+      },
+      "codigo": "B002",
+      "cantidad": 125
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d880"
+      },
+      "codigo": "B003",
+      "cantidad": 225
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d881"
+      },
+      "codigo": "B004",
+      "cantidad": 175
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d882"
+      },
+      "codigo": "B005",
+      "cantidad": 325
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d883"
+      },
+      "codigo": "B006",
+      "cantidad": 275
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d884"
+      },
+      "codigo": "B007",
+      "cantidad": 375
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d885"
+      },
+      "codigo": "B008",
+      "cantidad": 425
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d886"
+      },
+      "codigo": "B009",
+      "cantidad": 475
+    },
+    {
+      "_id": {
+        "$oid": "664d32a9289bad9d0600d887"
+      },
+      "codigo": "B010",
+      "cantidad": 525
+    }
+  ]
